@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "sdm.apps.problogtwa",
+               "sha256_cert_fingerprints": ["1A:3A:F8:B0:73:A3:A2:BB:71:2F:C4:A8:C0:F0:1A:98:EF:D7:AA:F8:EC:12:F5:30:AC:95:E3:F2:2C:A7:5F:A9"] }
+}]
